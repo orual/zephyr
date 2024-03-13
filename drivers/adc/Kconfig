@@ -117,6 +117,8 @@ source "drivers/adc/Kconfig.max11102_17"
 
 source "drivers/adc/Kconfig.ad5592"
 
+source "drivers/adc/Kconfig.ad594x"
+
 source "drivers/adc/Kconfig.ltc2451"
 
 source "drivers/adc/Kconfig.numaker"
